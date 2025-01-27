@@ -44,7 +44,7 @@ const AddItem = () => {
                 pauseOnFocusLoss
                 draggable
                 pauseOnHover
-                theme="light"
+                theme="colored"
             />
             <div>
                 <section className="max-w-4xl p-6 mx-auto bg-gray-200 rounded-md shadow-md">
