@@ -28,6 +28,7 @@ const AddItem = () => {
                 _id: Date.now()
             })
             setItemInLocal(getAllItem)
+            toast.success("Data Inserted")
         }
     }
 
